@@ -19,5 +19,6 @@ Professor: Samuel Martins
 ```
     http://localhost:3000/
 ```
-
+- URL para visualização no Heroku:  
+https://reactex4-5.herokuapp.com/
 
